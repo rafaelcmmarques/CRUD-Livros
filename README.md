@@ -92,3 +92,19 @@ java -jar dist/CRUD-Livros.jar
 ```
 
 O arquivo `meubanco.dbo` será criado automaticamente na primeira execução e armazenará os dados do acervo.
+ 
+---
+ 
+## 7. Tecnologias Utilizadas
+ 
+- **Linguagem:** Java
+- **Interface Gráfica:** Swing
+- **Persistência:** db4o (banco de dados orientado a objetos embutido)
+- **IDE / Build:** NetBeans (Ant)
+---
+ 
+## 8. Autor e Licença
+ 
+Desenvolvido por **Rafael Correia Molina Marques**.
+ 
+Este projeto está sob a licença [MIT](LICENSE) — sinta-se à vontade para usar, estudar e modificar.
